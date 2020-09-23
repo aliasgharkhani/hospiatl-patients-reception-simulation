@@ -1,0 +1,1 @@
+# hospiatl-patients-reception-simulation
