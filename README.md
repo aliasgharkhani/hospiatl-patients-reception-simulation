@@ -1,1 +1,2 @@
 # hospiatl-patients-reception-simulation
+In this project I and my teammate developed a hospital patients reception simulator that gets as input some parameters like service rate of doctors and so on then runs simulations.
